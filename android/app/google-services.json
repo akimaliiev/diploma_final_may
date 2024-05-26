@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703704100184",
+    "firebase_url": "https://diploma-auth-af731-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "diploma-auth-af731",
+    "storage_bucket": "diploma-auth-af731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703704100184:android:57e7077cc234ae8e7b492d",
+        "android_client_info": {
+          "package_name": "com.example.diploma_16_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703704100184-6vb8vttu3smeqhv2q15ula6m699kr05n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooH27sn2imt-UoT6wMk48TXZF91CyPBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703704100184-6vb8vttu3smeqhv2q15ula6m699kr05n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703704100184-unfd7b168958vsa4um85u9qafoa84vce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diploma1610"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

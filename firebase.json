@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "diploma-auth-af731",
+          "appId": "1:703704100184:android:57e7077cc234ae8e7b492d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "diploma-auth-af731",
+          "configurations": {
+            "android": "1:703704100184:android:57e7077cc234ae8e7b492d",
+            "ios": "1:703704100184:ios:b5fbeef71c1ddcf47b492d",
+            "web": "1:703704100184:web:a9007917f2fd47b57b492d",
+            "windows": "1:703704100184:web:f507e2d5e82848577b492d"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "europe-west1"
+    }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
